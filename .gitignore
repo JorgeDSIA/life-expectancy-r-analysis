@@ -1,0 +1,20 @@
+# R temporary files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# R Markdown temporary files
+*_cache/
+*_files/
+*.utf8.md
+*.knit.md
+
+# Temporary files
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# LaTeX temporary files
+*.tex
